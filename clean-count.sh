@@ -4,7 +4,7 @@
 ###     If you do not have figlet and or lolcat,      ###
 ### delete their usages on lines 5, 7, 9, 11, and 16. ###
 #########################################################
-
+!#/bin/bash
 clear
 echo "Clean Count" | figlet | lolcat -p 1.2
 echo "By: Brandon Anderson =]"
