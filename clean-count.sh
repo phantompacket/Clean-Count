@@ -1,5 +1,5 @@
 #########################################################
-###    THIS BASH SCRIPT REQUIRES FIGLET AND LOLCAT    ###
+### THIS BASH SCRIPT REQUIRES figlet, lolcat, and bc  ###
 ###                                                   ###
 ###     If you do not have figlet and or lolcat,      ###
 ### delete their usages on lines 5, 7, 9, 11, and 16. ###
